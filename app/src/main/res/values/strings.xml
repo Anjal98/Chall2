@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">ShoppingList</string>
+    <string name="button1">Water</string>
+    <string name="button2">Apple</string>
+    <string name="button3">Oats</string>
+    <string name="button4">Gum</string>
+    <string name="button5">Mask</string>
+    <string name="button6">Drinks</string>
+    <string name="button7">Eggs</string>
+    <string name="button8">Chicken</string>
+    <string name="button9">Broocoli</string>
+    <string name="button10">Beans</string>
+
+    <string name="Text1">Water</string>
+    <string name="Text2">Apple</string>
+    <string name="Text3">Oats</string>
+    <string name="Text4">Gum</string>
+    <string name="Text5">Mask</string>
+    <string name="Text6">Drinks</string>
+    <string name="Text7">Eggs</string>
+    <string name="Text8">Chicken</string>
+    <string name="Text9">Broocoli</string>
+    <string name="Text10">Beans</string>
+
+</resources>
